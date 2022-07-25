@@ -1,0 +1,38 @@
+3D\ Objects
+AppData
+Application\ Data
+Contacts
+Cookies
+Desktop
+Documents
+Downloads
+Favorites
+IntelGraphicsProfiles
+Intro
+Jenkins_Home
+Links
+Local\ Settings
+Music
+My\ Documents
+NTUSER.DAT
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+NetHood
+OneDrive\ -\ Capgemini
+Pictures
+PrintHood
+Recent
+SQLHelper
+SYSTEM.HTML
+Saved\ Games
+Searches
+SendTo
+Start\ Menu
+Templates
+Videos
+jenkins-cli.jar
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+test1.txt
